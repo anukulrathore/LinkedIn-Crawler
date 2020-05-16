@@ -1,0 +1,1 @@
+Enter your username and password in parameters.py file and also your search query in that file before running the selenium scraping script.
